@@ -1,14 +1,13 @@
 {
-  "name": "mrm-contrib-tsx",
+  "name": "mrm-preset-contrib",
   "version": "1.0.0",
-  "description": "Mrm task that adds TSX",
+  "description": "Mrm preset with extra tasks",
   "keywords": [
     "mrm",
     "mrm-task",
-    "typescript",
-    "tsx"
+    "mrm-preset"
   ],
-  "repository": "https://github.com/kevinkhill/mrm-contrib-tsx",
+  "repository": "https://github.com/kevinkhill/mrm-preset-contrib",
   "license": "MIT",
   "author": {
     "name": "Kevin Hill",

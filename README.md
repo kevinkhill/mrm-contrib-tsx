@@ -1,12 +1,12 @@
 <!-- tsx -->
 
-# mrm-task-tsx
+# mrm-contrib-tsx
 
 [Mrm](https://github.com/sapegin/mrm) task that adds [tsx](https://github.com/esbuild-kit/tsx).
 
 ## What it does
 
-- Adds an npm script `start`:`tsx ./src/index.ts`
+- Adds `"start" : "tsx ./src/index.ts"` to `package.json` scripts
 - Installs the devDependency `tsx`
 
 ## Usage
@@ -15,16 +15,6 @@
 npx mrm tsx
 ```
 
-## Changelog
-
-The changelog can be found in [CHANGELOG.md](CHANGELOG.md).
-
-## Contributing
-
-Everyone is welcome to contribute. Please take a moment to review the [contributing guidelines](../../Contributing.md).
-
-## Authors and license
-
 [Kevin Hill](https://github.com/kevinkhill)
 
-MIT License, see the included [License.md](License.md) file.
+MIT License, see the included [LICENSE.md](LICENSE.md) file.
